@@ -86,7 +86,7 @@ Text preprocessing includes:
 | FinBERT | 0.74 | 0.72 | 0.70 | 0.71 |
 | RoBERTa-base | 0.78 | 0.75 | 0.74 | 0.74 |
 | RoBERTa-large | 0.80 | 0.78 | 0.77 | 0.77 |
-| **Hybrid (RoBERTa + FinBERT)** | **0.84** | **0.82** | **0.81** | **0.82** |
+| **Hybrid (RoBERTa + FinBERT)** | **0.84** | **0.79** | **0.78** | **0.80** |
 
 🔥 The **Hybrid Model** achieves the **highest accuracy (84%)**, outperforming all baseline models.
 
